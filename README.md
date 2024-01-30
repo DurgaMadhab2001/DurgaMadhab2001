@@ -7,15 +7,15 @@
 - Database (MySQL)
 - Testing (Manual Testing, Basics of Automation Testing)
 
+## 💻 Current projects
+- Food.com[Restaurant Website]
+
 ## 📅 Hobbies
 - Solve programming problems at Hacker Rank
 - Drumming
 - Beatboxing
 - Watch anime and TV shows
 - Badminton
-
-## 💻 Current projects
-- Food.com[Restaurant Website]
 
 ## 📚 Learning
 - React.js
