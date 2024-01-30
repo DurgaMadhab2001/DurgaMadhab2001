@@ -30,7 +30,7 @@
 
 Feel free to reach out for collaborations or just a friendly chat!
 
-⭐ From [suhailahmed](https://github.com/suhailahmed123)
+⭐ From [Durga Madhab](https://github.com/DurgaMadhab2001)
 
 ## 🎵 Spotify status
 
